@@ -61,6 +61,8 @@ A pixel-perfect recreation of the X (formerly Twitter) user interface built to s
 
 **🛠️ Tech Stack:** HTML • Tailwind CSS
 
+🔗 [Link](https://github.com/void-0019/X-clone)
+
 ---
 
 ### 🎵 Spotify Clone
@@ -75,6 +77,8 @@ A responsive Spotify-inspired music player that allows users to browse playlists
 * Interactive player controls
 
 **🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+🔗 [Link](https://github.com/void-0019/Spotify-Clone)
 
 ---
 
@@ -91,6 +95,8 @@ A clean and responsive task manager for organizing daily work with persistent lo
 
 **🛠️ Tech Stack:** React • Tailwind CSS • Local Storage
 
+🔗 [Link](https://github.com/void-0019/TodoList-App)
+
 ---
 
 ### 🔐 PassHero
@@ -105,6 +111,8 @@ A modern password manager that securely stores and manages credentials with a cl
 * MongoDB database integration
 
 **🛠️ Tech Stack:** React • Tailwind CSS • Node.js • Express • MongoDB
+
+🔗 [Link](https://github.com/void-0019/PassHero-Password-Manager)
 
 ---
 

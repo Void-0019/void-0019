@@ -48,31 +48,108 @@
 
 ## 🌟 Featured Projects
 
+### ✖️ X (Twitter) UI Clone
+
+A pixel-perfect recreation of the X (formerly Twitter) user interface built to strengthen frontend and responsive design skills.
+
+**✨ Features**
+
+* Responsive layout
+* Modern UI components
+* Sidebar navigation
+* Timeline interface
+
+**🛠️ Tech Stack:** HTML • Tailwind CSS
+
+---
+
+### 🎵 Spotify Clone
+
+A responsive Spotify-inspired music player that allows users to browse playlists and play songs with an intuitive interface.
+
+**✨ Features**
+
+* Music playback
+* Playlist navigation
+* Responsive design
+* Interactive player controls
+
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### ✅ Todo List App
+
+A clean and responsive task manager for organizing daily work with persistent local storage.
+
+**✨ Features**
+
+* Add, edit, and delete tasks
+* Mark tasks as completed
+* Local storage persistence
+* Responsive interface
+
+**🛠️ Tech Stack:** React • Tailwind CSS • Local Storage
+
+---
+
 ### 🔐 PassHero
-A secure Password Manager built with React, Node.js and MongoDB.
 
-**Tech Used**
-- React
-- Express
-- MongoDB
-- Tailwind CSS
+A modern password manager that securely stores and manages credentials with a clean, responsive interface.
 
----
+**✨ Features**
 
-### ☕ Get Me A Coffee (Working)
-A crowdfunding platform where creators can receive support.
+* Store, edit, and delete passwords
+* Copy credentials with one click
+* Responsive UI
+* MongoDB database integration
 
-**Tech Used**
-- Next.js
-- MongoDB
-- NextAuth
-- Tailwind CSS
+**🛠️ Tech Stack:** React • Tailwind CSS • Node.js • Express • MongoDB
 
 ---
 
-### ⚽ Football Manager (Planning)
+### ☕ Get Me A Coffee *(Working)*
 
-A football management simulation game inspired by Football Manager with player transfers, tactics, scouting, finances and club management.
+A crowdfunding platform where creators can receive support from their audience through secure authentication and payments.
+
+**✨ Features**
+
+* User authentication
+* Creator profiles
+* Support creators
+* Responsive design
+
+**🛠️ Tech Stack:** Next.js • React • NextAuth • MongoDB • Tailwind CSS
+
+---
+
+### ⚽ Football Manager *(Planning)*
+
+A football management simulation game where players manage clubs, sign players, develop tactics, scout talent, and compete for trophies.
+
+**✨ Planned Features**
+- Club & Squad Management
+- Realistic Transfer Market
+- Tactical System
+- Youth Academy & Scouting
+- Financial Management
+- Match Engine & Live Simulation
+- League & Tournament System
+- Player Development & Training
+- AI Managers
+- Save/Load Career Progress
+
+**🛠️ Planned Tech Stack**
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **ORM:** Prisma
+- **Authentication:** Auth.js (NextAuth)
+- **Real-time:** Socket.IO
+- **Caching:** Redis
+- **File Storage:** Cloudinary
+- **Deployment:** Vercel (Frontend), Railway/Docker (Backend)
+
 
 ---
 

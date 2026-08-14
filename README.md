@@ -116,7 +116,7 @@ A modern password manager that securely stores and manages credentials with a cl
 
 ---
 
-### ☕ Get Me A Coffee *(Working)*
+### ☕ Get Me A Coffee *(Active Development)*
 
 A crowdfunding platform where creators can receive support from their audience through secure authentication and payments.
 
@@ -125,9 +125,15 @@ A crowdfunding platform where creators can receive support from their audience t
 * User authentication
 * Creator profiles
 * Support creators
+* Razorpay payments
+* Creator dashboard
+* Donation history
+* Profile updates
 * Responsive design
+* Toast notifications
+* 404 handling for invalid usernames
 
-**🛠️ Tech Stack:** Next.js • React • NextAuth • MongoDB • Tailwind CSS
+**🛠️ Tech Stack:** Next.js • React • NextAuth • MongoDB • Tailwind CSS • Razorpay
 
 🔗 [Link](https://github.com/void-0019/get-me-a-coffee)
 

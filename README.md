@@ -139,6 +139,23 @@ A crowdfunding platform where creators can receive support from their audience t
 
 ---
 
+### 🌐 Linkly
+
+A modern URL shortener built with **Next.js** that converts long URLs into short, simple, and shareable links.
+
+**✨ Features**
+
+* Shorten long URLs
+* Fast URL redirection
+* Clean and responsive interface
+* Link management *(in development)*
+
+**🛠️ Tech Stack:** Next.js • React • JavaScript • Tailwind CSS • MongoDB
+
+🔗 [Link](https://github.com/void-0019/linkly)
+
+---
+
 ### ⚽ Football Manager *(Planning)*
 
 A football management simulation game where players manage clubs, sign players, develop tactics, scout talent, and compete for trophies.

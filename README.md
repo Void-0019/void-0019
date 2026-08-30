@@ -156,6 +156,24 @@ A modern URL shortener built with **Next.js** that converts long URLs into short
 
 ---
 
+### 🌐 Linktree
+
+A modern **Linktree-inspired link-in-bio platform** built with **Next.js** that lets users showcase and share their important links through a single personalized page.
+
+**✨ Features** *(In Development)*
+
+* Personalized link-in-bio page
+* Multiple social and external links
+* Clean and responsive interface
+* Custom visual design
+* Easy link sharing
+
+**🛠️ Tech Stack:** Next.js • React • JavaScript • Tailwind CSS
+
+🔗 [Link](https://github.com/void-0019/linktree-clone)
+
+---
+
 ### ⚽ Football Manager *(Planning)*
 
 A football management simulation game where players manage clubs, sign players, develop tactics, scout talent, and compete for trophies.
